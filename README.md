@@ -1,49 +1,197 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Afaan and I'm a Computer Science Engineer, specializing in ML and AI.</h2>
+<h1 align="center">Hi 👋, I'm Afaan Hussain Shah</h1>
 
-###
+<h3 align="center">
+Computer Science Engineering Student | Machine Learning & AI Enthusiast | Data Science | Python Developer
+</h3>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/afaanhussainshah/afaanhussainshah/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/afaanhussainshah/afaanhussainshah/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-###
+---
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 👨‍💻 About Me
 
-###
+🎓 I'm a Computer Science Engineering student at **Central University of Kashmir**.
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+🤖 I'm passionate about **Machine Learning, Artificial Intelligence, Data Science, and Generative AI**.
+
+🐍 I primarily work with **Python** to build machine learning models, analyze data, and develop intelligent solutions.
+
+🧠 Currently exploring **Machine Learning, NLP, RAG, Generative AI, and AI-powered applications**.
+
+🌐 I also have experience in **Web Development** and enjoy building practical and user-friendly applications.
+
+🚀 I believe in learning by building, experimenting with new technologies, and continuously improving my skills.
+
+💡 I'm always interested in collaborating on meaningful projects involving **AI, ML, Data Science, and Software Development**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+</p>
+
+### 🤖 Machine Learning & Data Science
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" />
+</p>
 
-###
+**Areas of Interest:**
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+`Machine Learning` • `Data Science` • `Predictive Modeling` • `Data Analysis` • `Feature Engineering` • `Model Evaluation` • `NLP` • `Generative AI` • `RAG`
 
-###
+### 🌐 Web Development
 
-<br clear="both">
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+</p>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/afaanhussainshah/afaanhussainshah/snake-output/snake.svg" alt="Snake animation" />
+### ☕ Software Development
 
-###
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 Property Insurance Premium Prediction
+
+A Machine Learning project focused on predicting insurance premium amounts based on property and risk-related features.
+
+**Technologies:**
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Machine Learning`
+
+🔗 **Repository:** [View Project](YOUR_INSURANCE_PROJECT_REPO_URL)
+
+---
+
+### 💰 Fin Tracker
+
+A Java-based desktop expense tracking application designed to help users record, manage, and monitor their expenses.
+
+**Technologies:**
+
+`Java` `AWT` `Swing` `JTable` `File Handling`
+
+🔗 **Repository:** [View Project](YOUR_FIN_TRACKER_REPO_URL)
+
+---
+
+### 🏔️ Mersh Kashmir
+
+A heritage-inspired e-commerce web project showcasing traditional Kashmiri products through a modern and interactive web interface.
+
+**Technologies:**
+
+`HTML` `CSS` `JavaScript` `Responsive Web Design`
+
+🔗 **Repository:** [View Project](https://github.com/afaanhussainshah/Mersh)
+
+🌐 **Live Website:** [Visit Website](YOUR_MERSH_LIVE_URL)
+
+---
+
+## 🧠 Currently Learning
+
+- 🤖 Advanced Machine Learning
+- 🧬 Deep Learning
+- 🗣️ Natural Language Processing
+- 🧠 Generative AI
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 📊 Advanced Data Science
+- ☁️ AI Application Development
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afaanhussainshah&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="170" alt="Afaan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaanhussainshah&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="170" alt="Afaan's Most Used Languages" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/afaanhussainshah/afaanhussainshah/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
+## 🏆 Certifications & Learning
+
+- 📊 Data Science with Python
+- 🔐 Microsoft Cybersecurity
+- 🛡️ Cybersecurity Fundamentals
+- 🤖 Machine Learning & Artificial Intelligence
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+Feel free to explore my repositories and connect with me.
+</p>
