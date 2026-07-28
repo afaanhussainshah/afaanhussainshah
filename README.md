@@ -18,6 +18,21 @@ Computer Science Engineering Student | Machine Learning & AI Enthusiast | Data S
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afaanhussainshah&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="170" alt="Afaan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaanhussainshah&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="170" alt="Afaan's Most Used Languages" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/afaanhussainshah/afaanhussainshah/snake-output/snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 🎓 I'm a Computer Science Engineering student at **Central University of Kashmir**.
@@ -32,7 +47,7 @@ Computer Science Engineering Student | Machine Learning & AI Enthusiast | Data S
 
 🚀 I believe in learning by building, experimenting with new technologies, and continuously improving my skills.
 
-💡 I'm always interested in collaborating on meaningful projects involving **AI, ML, Data Science, and Software Development**.
+💡 I'm interested in collaborating on projects involving **AI, ML, Data Science, and Software Development**.
 
 ---
 
@@ -64,7 +79,7 @@ Computer Science Engineering Student | Machine Learning & AI Enthusiast | Data S
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" />
 </p>
 
-**Areas of Interest:**
+**Core Areas:**
 
 `Machine Learning` • `Data Science` • `Predictive Modeling` • `Data Analysis` • `Feature Engineering` • `Model Evaluation` • `NLP` • `Generative AI` • `RAG`
 
@@ -80,17 +95,17 @@ Computer Science Engineering Student | Machine Learning & AI Enthusiast | Data S
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 </p>
 
-### ☕ Software Development
+### 🧰 Tools & Technologies
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 </p>
+
+`Git` • `GitHub` • `Jupyter Notebook` • `VS Code`
 
 ---
 
@@ -146,24 +161,7 @@ A heritage-inspired e-commerce web project showcasing traditional Kashmiri produ
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afaanhussainshah&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="170" alt="Afaan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaanhussainshah&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="170" alt="Afaan's Most Used Languages" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/afaanhussainshah/afaanhussainshah/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
-
----
-
-## 🏆 Certifications & Learning
+## 🎓 Certifications & Learning
 
 - 📊 Data Science with Python
 - 🔐 Microsoft Cybersecurity
